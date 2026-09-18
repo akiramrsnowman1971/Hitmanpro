@@ -224,4 +224,4 @@ HitmanPro is available as a **complete free version** with all features and upda
 Start reinforcing your computer's security today with HitmanPro! Download the **full version** for **free** and enjoy a safer computing experience.
 
 ---
-**Last updated:** 2026-09-17 23:09:55 UTC
+**Last updated:** 2026-09-18 01:45:53 UTC
